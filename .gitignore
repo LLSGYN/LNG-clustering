@@ -1,0 +1,7 @@
+*.csv
+pic.py
+init.py
+*.ipynb
+*.bk
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
