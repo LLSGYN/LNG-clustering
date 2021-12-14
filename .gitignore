@@ -3,3 +3,4 @@ pic.py
 *.ipynb
 *.bk
 .ipynb_checkpoints
+*/.ipynb_checkpoints/*
